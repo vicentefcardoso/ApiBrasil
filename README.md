@@ -9,7 +9,7 @@
   <li>Consulta no registro.br utilizando o domínio</li>
   <li>Consulta de Cidades pelo UF</li><br>
 
-  <a href="https://brasilapi.com.br/docs">Clique aqui para ver a Documentação</a><br>
+  <a href="https://brasilapi.com.br/docs">Clique aqui para ver a Documentação</a><br><br>
 
 ![image](https://github.com/user-attachments/assets/138ee0d6-7027-4a7b-80a6-c40834b3dfde)
 
